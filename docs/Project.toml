@@ -1,0 +1,6 @@
+[deps]
+MyPkg99 = "867d36e1-d8ab-4f9f-b8c9-c1fdc643c9bd"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1.9"
